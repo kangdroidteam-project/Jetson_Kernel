@@ -1,0 +1,31 @@
+Case Information: 
+Acquired using: FTK
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for /Users/KangDroid/Desktop/phy_e01:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 31266816
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Glide Media
+ Source data size: 15267 MB
+ Sector count:    31266816
+[Computed Hashes]
+ MD5 checksum:    03648af2e243fe0992291342d9cde184
+ SHA1 checksum:   b0ffb911c34bfac843bdb7fa21d6709f4ab3871d
+
+Image Information:
+ Acquisition started:   Fri Oct 23 12:09:08 2020
+ Acquisition finished:  Fri Oct 23 12:51:31 2020
+ Segment list:
+  /Users/KangDroid/Desktop/phy_e01.001
